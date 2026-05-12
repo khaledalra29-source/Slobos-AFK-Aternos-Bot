@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rivuline.aternos.host:34551",
+    "ip": "khaled1414gs-h13P.aternos.me:34551",
     "port": 34551,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
